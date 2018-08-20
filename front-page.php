@@ -14,6 +14,25 @@
 			</div>
 		</div>
 	</div>
+	<div class="container-fluid">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					<h2>Benefits of Mindfulness Training</h2>
+				</div>
+				<div class="col-sm-4">
+					ICON ETC.
+				</div>
+				<div class="col-sm-4">
+					ICON ETC.
+				</div>
+				<div class="col-sm-4">
+					ICON ETC.
+				</div>
+			</div>
+		</div>
+	</div>
+				
 	
 <?php
 	get_template_part('inc/intro-home');
