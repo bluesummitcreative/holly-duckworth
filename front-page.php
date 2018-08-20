@@ -2,7 +2,7 @@
 	/*Template Name: Home*/
 	get_header();
 	get_template_part('inc/slider-home'); ?>
-	<div class="container-fluid home-monday">
+	<div class="container-fluid bg-yellow home-monday">
 		<div class="container">
 			<div class="row">
 				<div class="offset-sm-1 col-sm-3 text-center">
