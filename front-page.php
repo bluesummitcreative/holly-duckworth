@@ -17,16 +17,16 @@
 	<div class="container-fluid">
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-12">
+				<div class="col-sm-12 text-center">
 					<h2>Benefits of Mindfulness Training</h2>
 				</div>
-				<div class="col-sm-4">
+				<div class="col-sm-4 text-center">
 					ICON ETC.
 				</div>
-				<div class="col-sm-4">
+				<div class="col-sm-4 text-center">
 					ICON ETC.
 				</div>
-				<div class="col-sm-4">
+				<div class="col-sm-4 text-center">
 					ICON ETC.
 				</div>
 			</div>
