@@ -15,9 +15,9 @@
 		</div>
 	</div>
 	<div class="container-fluid">
-		<div class="container">
+		<div class="container container-padding">
 			<div class="row">
-				<div class="col-sm-12 text-center container-padding">
+				<div class="col-sm-12 text-center">
 					<h2>Benefits of Mindfulness Training</h2>
 				</div>
 				<div class="col-sm-4 text-center">
