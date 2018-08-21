@@ -79,6 +79,19 @@
 			</div>
 		</div>
 	</div>
+	<div class="container-fluid container-padding" style="background:#262262;">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-8 text-center">
+					<p>Dive into fun, thought-provoking, and engaging conversations on everyday mindfulness – from meditation to spirituality to personal passions to success and failure to relationships and much more. Your host, Holly Duckworth, will feature special guests and the show’s unique cast of over 70 individuals.</p>
+				</div>
+				<div class="col-sm-4 text-center">
+					<img src="http://via.placeholder.com/800x200" alt="" />
+					<img src="http://via.placeholder.com/800x200" alt="" />
+				</div>
+			</div>
+		</div>
+	</div>
 				
 	
 <?php
