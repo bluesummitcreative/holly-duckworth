@@ -45,7 +45,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-6 text-center">
-					<img class="img-fluid" src="http://via.placeholder.com/800x800" alt="" />
+					<img class="img-fluid" src="http://via.placeholder.com/400x400" alt="" />
 				</div>
 				<div class="col-sm-6 text-center">
 					<h3>Lorem Ipsum dolor...</h3>
@@ -69,14 +69,12 @@
 	<div class="container-fluid container-padding">
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-6 text-center">
+				<div class="col-sm-3 text-center">
 					<img class="img-fluid" src="http://via.placeholder.com/800x800" alt="" />
 				</div>
-				<div class="col-sm-6 text-center">
-					<h3>Lorem Ipsum dolor...</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mattis interdum massa. Nulla eu diam id nisi porta convallis nec sed mauris. Donec vitae turpis.</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mattis interdum massa. Nulla eu diam id nisi porta convallis nec sed mauris. Donec vitae turpis.</p>
-					<p><a href="#" class="btn btn-primary">LEARN MORE</a>
+				<div class="col-sm-9 text-center">
+					<blockquote>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam efficitur diam nunc, at rutrum turpis rutrum non. Nullam vehicula elit ut sagittis cursus. Cras ultricies, lorem et dignissim eleifend, metus."</blockquote>
+					<p><a href="#" class="btn btn-primary">Read All Testimonials</a>
 				</div>
 			</div>
 		</div>
