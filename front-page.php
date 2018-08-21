@@ -36,7 +36,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-12 text-center">
-					<h2>Holly Duckworth is a leading mindfulness speaker, coach, and author.</h2>
+					<h3>Holly Duckworth is a leading mindfulness speaker, coach, and author.</h3>
 				</div>
 			</div>
 		</div>
