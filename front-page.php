@@ -69,11 +69,11 @@
 	<div class="container-fluid container-padding">
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-3 text-center">
+				<div class="col-sm-2 text-center">
 					<img class="img-fluid" src="http://via.placeholder.com/800x800" alt="" />
 				</div>
 				<div class="col-sm-9 text-center">
-					<blockquote>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam efficitur diam nunc, at rutrum turpis rutrum non. Nullam vehicula elit ut sagittis cursus. Cras ultricies, lorem et dignissim eleifend, metus."</blockquote>
+					<blockquote>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam efficitur diam nunc, at rutrum turpis rutrum non. Nullam vehicula elit ut sagittis cursus. Cras ultricies, lorem et dignissim eleifend, metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam efficitur diam nunc, at rutrum turpis rutrum non. Nullam vehicula elit ut sagittis cursus. Cras ultricies, lorem et dignissim eleifend, metus. "</blockquote>
 					<p><a href="#" class="btn btn-primary">Read All Testimonials</a>
 				</div>
 			</div>
