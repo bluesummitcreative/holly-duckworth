@@ -56,7 +56,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="container-fluid bg-yellow text-center" style="padding:10px;">
+	<div class="container-fluid bg-yellow text-center" style="padding:10px 20px;">
 		<div class="container">
 			<div class="row">
 				<div class="col-12 text-center">
