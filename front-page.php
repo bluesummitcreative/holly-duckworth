@@ -41,6 +41,31 @@
 			</div>
 		</div>
 	</div>
+	<div class="container-fluid">
+		<div class="container container-padding">
+			<div class="row">
+				<div class="col-sm-6 text-center">
+					<img class="img-fluid" src="http://via.placeholder.com/800x800" alt="" />
+				</div>
+				<div class="col-sm-6 text-center">
+					<h3>Lorem Ipsum dolor...</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mattis interdum massa. Nulla eu diam id nisi porta convallis nec sed mauris. Donec vitae turpis.</p>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mattis interdum massa. Nulla eu diam id nisi porta convallis nec sed mauris. Donec vitae turpis.</p>
+					<p><a href="#" class="btn btn-primary">LEARN MORE</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="container-fluid bg-yellow text-center" style="padding:10px;">
+		<div class="container">
+			<div class="row">
+				<div class="col-12 text-center">
+					<h4>Holly has written for the following publications:</h4>
+					<a href="#"><img class="img-fluid" src="http://via.placeholder.com/150x300" alt="" /></a> <a href="#"><img class="img-fluid" src="http://via.placeholder.com/150x300" alt="" /></a> <a href="#"><img class="img-fluid" src="http://via.placeholder.com/150x300" alt="" /></a> <a href="#"><img class="img-fluid" src="http://via.placeholder.com/150x300" alt="" /></a> 
+				</div>
+			</div>
+		</div>
+	</div>
 				
 	
 <?php
