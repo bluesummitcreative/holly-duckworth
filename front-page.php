@@ -61,7 +61,7 @@
 			<div class="row">
 				<div class="col-12 text-center">
 					<h4>Holly has written for the following publications:</h4>
-					<a href="#"><img class="img-fluid" src="http://via.placeholder.com/150x300" alt="" /></a> <a href="#"><img class="img-fluid" src="http://via.placeholder.com/150x300" alt="" /></a> <a href="#"><img class="img-fluid" src="http://via.placeholder.com/150x300" alt="" /></a> <a href="#"><img class="img-fluid" src="http://via.placeholder.com/150x300" alt="" /></a> 
+					<a href="#"><img class="img-fluid" src="http://via.placeholder.com/150x75" alt="" /></a> <a href="#"><img class="img-fluid" src="http://via.placeholder.com/150x75" alt="" /></a> <a href="#"><img class="img-fluid" src="http://via.placeholder.com/150x75" alt="" /></a> <a href="#"><img class="img-fluid" src="http://via.placeholder.com/150x75" alt="" /></a> 
 				</div>
 			</div>
 		</div>
