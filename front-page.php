@@ -125,18 +125,23 @@
 			<div class="row">
 				<div class="col-sm-2 text-center offset-sm-1">
 					<img class="img-fluid" src="http://via.placeholder.com/300x300" alt="" />
+					<p>Blog Post Title</p>
 				</div>
 				<div class="col-sm-2 text-center">
 					<img class="img-fluid" src="http://via.placeholder.com/300x300" alt="" />
+					<p>Blog Post Title</p>
 				</div>
 				<div class="col-sm-2 text-center">
 					<img class="img-fluid" src="http://via.placeholder.com/300x300" alt="" />
+					<p>Blog Post Title</p>
 				</div>
 				<div class="col-sm-2 text-center">
 					<img class="img-fluid" src="http://via.placeholder.com/300x300" alt="" />
+					<p>Blog Post Title</p>
 				</div>
-				<div class="col-sm-2 text-center offset-sm-1">
+				<div class="col-sm-2 text-center">
 					<img class="img-fluid" src="http://via.placeholder.com/300x300" alt="" />
+					<p>Blog Post Title</p>
 				</div>
 			</div>
 		</div>
