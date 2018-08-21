@@ -93,6 +93,54 @@
 			</div>
 		</div>
 	</div>
+	<div class="container-fluid container-padding">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12 text-center">
+					<h2>Benefits of Mindfulness Training</h2>
+				</div>
+				<div class="col-sm-4 text-center">
+					ICON ETC.
+				</div>
+				<div class="col-sm-4 text-center">
+					ICON ETC.
+				</div>
+				<div class="col-sm-4 text-center">
+					ICON ETC.
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="container-fluid bg-yellow text-center" style="padding:10px;">
+		<div class="container">
+			<div class="row">
+				<div class="col-12 text-center">
+					<h2>Latest Blog Posts</h2>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="container-fluid container-padding">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-2 text-center offset-sm-1">
+					<img class="img-fluid" src="http://via.placeholder.com/300x300" alt="" />
+				</div>
+				<div class="col-sm-2 text-center">
+					<img class="img-fluid" src="http://via.placeholder.com/300x300" alt="" />
+				</div>
+				<div class="col-sm-2 text-center">
+					<img class="img-fluid" src="http://via.placeholder.com/300x300" alt="" />
+				</div>
+				<div class="col-sm-2 text-center">
+					<img class="img-fluid" src="http://via.placeholder.com/300x300" alt="" />
+				</div>
+				<div class="col-sm-2 text-center offset-sm-1">
+					<img class="img-fluid" src="http://via.placeholder.com/300x300" alt="" />
+				</div>
+			</div>
+		</div>
+	</div>
 				
 	
 <?php
