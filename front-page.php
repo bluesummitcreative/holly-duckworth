@@ -64,7 +64,7 @@
 	<div class="container-fluid text-center">
 		<div class="container">
 			<div class="row">				
-					<h4>Holly has written for the following publications:</h4>
+					<h4 style="margin:0 0 40px;">Holly has written for the following publications:</h4>
 					<div class="row">
 						<div class="col-sm-3"><img class="img-fluid" src="https://hollyduckworth.com/wp-content/uploads/2018/01/new_york_times_logo-e1515443923734-300x64.jpg" alt="" /></div>
 						<div class="col-sm-3"><img class="img-fluid" src="https://hollyduckworth.com/wp-content/uploads/2018/01/meetings-300x59.png" alt="" /></div>
