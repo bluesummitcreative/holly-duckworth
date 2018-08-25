@@ -63,16 +63,14 @@
 	</div>
 	<div class="container-fluid text-center">
 		<div class="container">
-			<div class="row">
-				<div class="col-12 text-center">
+			<div class="row">				
 					<h4>Holly has written for the following publications:</h4>
 					<div class="row">
 						<div class="col-sm-3"><img class="img-fluid" src="https://hollyduckworth.com/wp-content/uploads/2018/01/new_york_times_logo-e1515443923734-300x64.jpg" alt="" /></div>
 						<div class="col-sm-3"><img class="img-fluid" src="https://hollyduckworth.com/wp-content/uploads/2018/01/meetings-300x59.png" alt="" /></div>
 						<div class="col-sm-3"><img class="img-fluid" src="https://hollyduckworth.com/wp-content/uploads/2018/01/Colorado-Meetings-Events-300x77.png" alt="" /></div>
 						<div class="col-sm-3"><img class="img-fluid" src="https://hollyduckworth.com/wp-content/uploads/2018/03/midwest-meetings-logo-white-300x106.gif" alt="" /></div>
-					</div>
-				</div>
+					</div>				
 			</div>
 		</div>
 	</div>
