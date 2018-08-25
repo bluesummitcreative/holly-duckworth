@@ -51,13 +51,12 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-6 text-center">
-					<img class="img-fluid" src="http://via.placeholder.com/400x400" alt="" />
+					<img class="img-fluid" src="/wp-content/uploads/2017/02/HDNT1A0306-1-300x200.jpg" alt="" />
 				</div>
 				<div class="col-sm-6 text-center">
-					<h3>Lorem Ipsum dolor...</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mattis interdum massa. Nulla eu diam id nisi porta convallis nec sed mauris. Donec vitae turpis.</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mattis interdum massa. Nulla eu diam id nisi porta convallis nec sed mauris. Donec vitae turpis.</p>
-					<p><a href="#" class="btn btn-primary">LEARN MORE</a>
+					<h3>One-on-One Coaching for the Mindful Executive</h3>
+					<p>As an organizational leader you're ready to bring mindfulness into the workplace and transform your company culture. Let Holly share her expertise and insights with you, jump starting your education as a centered and mindful leader.</p>
+					<p><a href="https://hollyduckworth.com/coaching/" class="btn btn-primary">Apply for Coaching</a>
 				</div>
 			</div>
 		</div>
