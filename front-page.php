@@ -8,7 +8,7 @@
 				<div class="offset-sm-1 col-sm-3 text-center">
 					<p>Subscribe to the<br /><strong>Mindful Monday</strong> Newsletter:</p>
 				</div>
-				<div class="offset-sm-1 col-sm-7">
+				<div class="col-sm-7">
 					<?php echo do_shortcode('[gravityform id="1" title="false" description="false" ajax="true" tabindex="10"]'); ?>
 				</div>
 			</div>
