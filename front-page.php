@@ -38,7 +38,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="container-fluid bg-secondary text-center" style="padding:10px;">
+	<div class="container-fluid bg-secondary text-center">
 		<div class="container">
 			<div class="row">
 				<div class="col-12 text-center">
@@ -62,7 +62,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="container-fluid bg-secondary text-center" style="padding:10px 20px;">
+	<div class="container-fluid bg-secondary text-center">
 		<div class="container">
 			<div class="row">
 				<div class="col-12 text-center">
@@ -85,7 +85,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="container-fluid container-padding" style="background:#262262;">
+	<div class="container-fluid container-padding">
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-8 text-center">
