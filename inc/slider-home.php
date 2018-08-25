@@ -2,7 +2,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12 col-md-6 offset-md-6">
-				<?php echo do_shortcode('[gravityform id="2" title="false" description="false" ajax="true" tabindex="10"]'); ?>
+				<h1>Holly Duckworth: Keynote Speaker, Trainer and Mindfulness Coach<?php echo do_shortcode('[gravityform id="2" title="false" description="false" ajax="true" tabindex="10"]'); ?>
 			</div>
 		</div>
 	</div>
