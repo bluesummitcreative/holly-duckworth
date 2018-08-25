@@ -51,7 +51,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-6 text-center">
-					<img class="img-fluid" src="/wp-content/uploads/2017/02/HD7976.jpg" alt="" />
+					<img class="img-fluid" src="/wp-content/uploads/2018/08/home-coaching.jpg" alt="" />
 				</div>
 				<div class="col-sm-6 text-center">
 					<h3>One-on-One Coaching for the Mindful Executive</h3>
