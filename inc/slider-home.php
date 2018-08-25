@@ -5,7 +5,7 @@
 				THIS WILL BE A BLANK COLUMN
 			</div>
 			<div class="col-sm-6">
-				FORM WILL GO HERE
+				<?php echo do_shortcode('[gravityform id="2" title="false" description="false" ajax="true" tabindex="10"]'); ?>
 			</div>
 		</div>
 	</div>
