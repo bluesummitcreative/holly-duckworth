@@ -1,4 +1,4 @@
-<div class="slider container-fluid" style="background:url(/wp-content/uploads/2018/08/slide3.jpg);background-repeat:no-repeat;background-position: center center;background-size: cover; padding: 200px;">
+<div class="slider container-fluid">
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12 col-md-6 offset-md-6">
