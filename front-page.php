@@ -2,7 +2,7 @@
 	/*Template Name: Home*/
 	get_header();
 	get_template_part('inc/slider-home'); ?>
-	<div class="container-fluid bg-yellow home-monday">
+	<div class="container-fluid bg-secondary home-monday">
 		<div class="container">
 			<div class="row">
 				<div class="offset-sm-1 col-sm-3 text-center">
@@ -26,15 +26,19 @@
 					<p>Building mindfulness doesn't mean you have to sit still and watch your breath. The mind-calming effect of meditation can help reduce the risk of heart disease, according to Harvard research. Mindfulness is good for your head, teaching you that letting go of overwhelm is for your heart. The more mindful you become, the better decisions you will make, and the more you will achieve. You can find a mindfulness practice that suits your lifestyle.</p>
 				</div>
 				<div class="col-sm-4 text-center">
-					ICON ETC.
+					<i class="fas fa-bolt fa-7x"></i>
+					<h4>Increases Focus & Vision</h4>
+					<p>"Mindfulness positively impacts human functioning overall. Research in such disciplines as psychology, neuroscience and medicine provide a wealth of evidence that mindfulness improves attention, cognition, emotions, behavior and physiology" ~ Case Western University reports</p>
 				</div>
 				<div class="col-sm-4 text-center">
-					ICON ETC.
+					<i class="fas fa-child fa-7x"></i>
+					<h4>Improves Wellbeing</h4>
+					<p>Mindfulness is brain and mind training that can be done by anyone, from any spiritual or religious background (or none at all). Mindfulness may improve your self-relationship and with people around you through greater empathy and compassion -- suggesting mindfulness training could enhance workplace processes that rely on effective leadership and teamwork.</p>
 				</div>
 			</div>
 		</div>
 	</div>
-	<div class="container-fluid bg-yellow text-center" style="padding:10px;">
+	<div class="container-fluid bg-secondary text-center" style="padding:10px;">
 		<div class="container">
 			<div class="row">
 				<div class="col-12 text-center">
@@ -58,7 +62,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="container-fluid bg-yellow text-center" style="padding:10px 20px;">
+	<div class="container-fluid bg-secondary text-center" style="padding:10px 20px;">
 		<div class="container">
 			<div class="row">
 				<div class="col-12 text-center">
@@ -112,7 +116,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="container-fluid bg-yellow text-center" style="padding:10px;">
+	<div class="container-fluid bg-secondary text-center" style="padding:10px;">
 		<div class="container">
 			<div class="row">
 				<div class="col-12 text-center">
