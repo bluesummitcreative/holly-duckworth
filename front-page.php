@@ -66,7 +66,7 @@
 			<div class="row">
 				<div class="col-12 text-center">
 					<h4>Holly has written for the following publications:</h4>
-					<a href="#"><img class="img-fluid" src="http://via.placeholder.com/150x75" alt="" /></a> <a href="#"><img class="img-fluid" src="http://via.placeholder.com/150x75" alt="" /></a> <a href="#"><img class="img-fluid" src="http://via.placeholder.com/150x75" alt="" /></a> <a href="#"><img class="img-fluid" src="http://via.placeholder.com/150x75" alt="" /></a> 
+					<img class="img-fluid" src="https://hollyduckworth.com/wp-content/uploads/2018/01/new_york_times_logo-e1515443923734-300x64.jpg" alt="" /> <img class="img-fluid" src="https://hollyduckworth.com/wp-content/uploads/2018/01/meetings-300x59.png" alt="" /> <img class="img-fluid" src="https://hollyduckworth.com/wp-content/uploads/2018/01/Colorado-Meetings-Events-300x77.png" alt="" /> <img class="img-fluid" src="https://hollyduckworth.com/wp-content/uploads/2018/03/midwest-meetings-logo-white-300x106.gif" alt="" />
 				</div>
 			</div>
 		</div>
