@@ -21,7 +21,9 @@
 					<h2>Benefits of Mindfulness Training</h2>
 				</div>
 				<div class="col-sm-4 text-center">
-					ICON ETC.
+					<i class="fas fa-heartbeat"></i>
+					<h4>Good for Heart</h4>
+					<p>Building mindfulness doesn't mean you have to sit still and watch your breath. The mind-calming effect of meditation can help reduce the risk of heart disease, according to Harvard research. Mindfulness is good for your head, teaching you that letting go of overwhelm is for your heart. The more mindful you become, the better decisions you will make, and the more you will achieve. You can find a mindfulness practice that suits your lifestyle.</p>
 				</div>
 				<div class="col-sm-4 text-center">
 					ICON ETC.
