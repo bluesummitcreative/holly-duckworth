@@ -101,7 +101,7 @@
 		</div>
 	</div>
 	
-	<div class="container-fluid container-padding">
+	<div class="container-fluid container-padding background:#e7e7e7;">
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-6 text-center">
