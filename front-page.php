@@ -139,11 +139,12 @@
 				?>
 
 				<?php if ( $the_query->have_posts() ) : $post_counter = 0; ?>
-				  <?php while ( $the_query->have_posts() ) : $the_query->the_post(); $post_counter++; ?>
+				  <?php while ( $the_query->have_posts() ) : $the_query->the_post(); ?>
 					<div class="col-sm-2 text-center<?php echo ($post_counter==0)?' offset-sm-1':''; ?>">
 						<?php the_post_thumbnail('medium', ['class' => 'img-fluid', 'title' => 'Continue Reading','alt' => 'Featured Image']); ?>
 						<p><?php the_title(); ?></p>
 					</div>
+				  <?php $post_counter++; ?>
 				  <?php endwhile; ?>
 				  <?php wp_reset_postdata(); ?>
 				<?php endif; ?>
