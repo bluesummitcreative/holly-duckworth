@@ -131,26 +131,22 @@
 	<div class="container-fluid container-padding">
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-2 text-center offset-sm-1">
-					<img class="img-fluid" src="http://via.placeholder.com/300x300" alt="" />
-					<p>Blog Post Title</p>
-				</div>
-				<div class="col-sm-2 text-center">
-					<img class="img-fluid" src="http://via.placeholder.com/300x300" alt="" />
-					<p>Blog Post Title</p>
-				</div>
-				<div class="col-sm-2 text-center">
-					<img class="img-fluid" src="http://via.placeholder.com/300x300" alt="" />
-					<p>Blog Post Title</p>
-				</div>
-				<div class="col-sm-2 text-center">
-					<img class="img-fluid" src="http://via.placeholder.com/300x300" alt="" />
-					<p>Blog Post Title</p>
-				</div>
-				<div class="col-sm-2 text-center">
-					<img class="img-fluid" src="http://via.placeholder.com/300x300" alt="" />
-					<p>Blog Post Title</p>
-				</div>
+				<?php 
+				   // the query
+				   $the_query = new WP_Query( array(
+				      'posts_per_page' => 5,
+				   )); 
+				?>
+
+				<?php if ( $the_query->have_posts() ) : $post_counter = 1; ?>
+				  <?php while ( $the_query->have_posts() ) : $the_query->the_post(); $post_counter++; ?>
+					<div class="col-sm-2 text-center<?php if($post_counter % 1 == 0) { echo' offset-sm-1';}?>">
+						<?php the_post_thumbnail('medium', ['class' => 'img-fluid', 'title' => 'Continue Reading','alt' => 'Featured Image']); ?>
+						<p><?php the_title(); ?></p>
+					</div>
+				  <?php endwhile; ?>
+				  <?php wp_reset_postdata(); ?>
+				<?php endif; ?>
 			</div>
 		</div>
 	</div>
