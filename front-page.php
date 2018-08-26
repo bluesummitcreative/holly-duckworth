@@ -138,9 +138,9 @@
 				   )); 
 				?>
 
-				<?php if ( $the_query->have_posts() ) : $post_counter = 1; ?>
+				<?php if ( $the_query->have_posts() ) : $post_counter = 0; ?>
 				  <?php while ( $the_query->have_posts() ) : $the_query->the_post(); $post_counter++; ?>
-					<div class="col-sm-2 text-center<?php if($post_counter % 1 == 0) { echo' offset-sm-1';}?>">
+					<div class="col-sm-2 text-center<?php echo ($post_counter==0)?' offset-sm-1':''; ?>">
 						<?php the_post_thumbnail('medium', ['class' => 'img-fluid', 'title' => 'Continue Reading','alt' => 'Featured Image']); ?>
 						<p><?php the_title(); ?></p>
 					</div>
