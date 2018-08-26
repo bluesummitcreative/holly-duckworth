@@ -74,20 +74,20 @@
 			</div>
 		</div>
 	</div>
-	<div class="container-fluid container-padding">
+	<div class="container-fluid container-padding bg-secondary">
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-2 text-center">
-					<img class="img-fluid" src="http://via.placeholder.com/800x800" alt="" />
+					<img class="img-fluid" src="https://hollyduckworth.com/wp-content/uploads/2017/02/Holly-Young.jpg" alt="" />
 				</div>
 				<div class="col-sm-9 text-center">
-					<blockquote>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam efficitur diam nunc, at rutrum turpis rutrum non. Nullam vehicula elit ut sagittis cursus. Cras ultricies, lorem et dignissim eleifend, metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam efficitur diam nunc, at rutrum turpis rutrum non. Nullam vehicula elit ut sagittis cursus. Cras ultricies, lorem et dignissim eleifend, metus. "</blockquote>
-					<p><a href="#" class="btn btn-primary">Read All Testimonials</a>
+					<blockquote>"She is authentic, upbeat and totally candid. Speaking with her you feel her positive energy take over you and it's hard not to get onboard with what she has to say. Holly is a truly gifted individual, not to mention kind and caring and fierce. She will work alongside of you to get you where you need to go. Even if you think you have it all together, check her out…Holly can help expand the goodness and potential inside, brewing and waiting to be let out and will help bring healing and growth into your world. If your mind and spirit are open, I'm certain Holly is the person that can help you."<br />-<strong><em>Holly Young</em></strong>, <em>Luxury & Waterfront Realtor / Market Analyst, Century 21</em></blockquote>
+					<p><a href="https://hollyduckworth.com/testimonials-2/" class="btn btn-primary">Read All Testimonials</a>
 				</div>
 			</div>
 		</div>
 	</div>
-	<div class="container-fluid container-padding">
+	<div class="container-fluid container-padding home-edm">
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-8 text-center">
