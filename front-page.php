@@ -106,11 +106,11 @@
 			<div class="row">
 				<div class="col-sm-6 text-center">
 					<h3>Get the Latest Book</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vestibulum vitae odio nec laoreet. Nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vestibulum vitae odio nec laoreet. Nunc.</p>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vestibulum vitae odio nec laoreet. Nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vestibulum vitae odio nec laoreet. Nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vestibulum vitae odio nec laoreet. Nunc.</p>
 					<p><a target="_blank" href="https://www.amazon.com/dp/1732019819/ref=sr_1_fkmr1_3?ie=UTF8&qid=1520294047&sr=8-3-fkmr1&keywords=atoz+guide+of+mindful+leadership" class="btn btn-primary">Purchase Now</a>
 				</div>
 				<div class="col-sm-6 text-center">
-					<img class="img-fluid" src="https://hollyduckworth.com/wp-content/uploads/2018/03/mindful-leadership-cover-screengrab.gif" alt="" />
+					<img class="img-fluid" src="/wp-content/uploads/2018/08/mindful-leadership-cover-home.jpg" alt="" />
 				</div>
 			</div>
 		</div>
