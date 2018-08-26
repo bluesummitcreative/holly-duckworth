@@ -66,7 +66,7 @@
 			<div class="row">
 				<div class="col-sm-8 text-center">
 					<h3>Get the Mindfulness Podcast</h3>
-					<p>Dive into fun, thought-provoking, and engaging conversations on everyday mindfulness – from meditation to spirituality to personal passions to success and failure to relationships and much more. Your host, Holly Duckworth, will feature special guests and the show’s unique cast of over 70 individuals.</p>
+					<p>Dive into fun, thought-provoking, engaging conversations on everyday mindfulness – from meditation to spirituality to personal passions to success and failure to relationships and much more. Your host, Holly Duckworth, will feature special guests and the show’s unique cast of over 70 individuals.</p>
 				</div>
 				<div class="col-sm-4 text-center">
 					<img class="img-fluid" src="http://via.placeholder.com/800x200" alt="">
@@ -108,7 +108,7 @@
 					<p>Dive into fun, thought-provoking, and engaging conversations on everyday mindfulness – from meditation to spirituality to personal passions to success and failure to relationships and much more. Your host, Holly Duckworth, will feature special guests and the show’s unique cast of over 70 individuals.</p>
 				</div>
 				<div class="col-sm-4 text-center">
-					<img class="img-fluid" src="http://via.placeholder.com/800x200" alt="" />
+					<img class="img-fluid" src="/wp-content/uploads/2018/08/itunes.png" alt="everyday mindfulness show" />
 				</div>
 			</div>
 		</div>
