@@ -56,7 +56,7 @@
 				<div class="col-sm-6 text-center">
 					<h3>One-on-One Coaching for the Mindful Executive</h3>
 					<p>As an organizational leader you're ready to bring mindfulness into the workplace and transform your company culture. Let Holly share her expertise and insights with you, jump starting your education as a centered and mindful leader.</p>
-					<p><a href="https://hollyduckworth.com/coaching/" class="btn btn-primary">Apply for Coaching</a>
+					<p><a href="/coaching/" class="btn btn-primary">Apply for Coaching</a>
 				</div>
 			</div>
 		</div>
@@ -110,7 +110,7 @@
 					<p><a target="_blank" href="https://www.amazon.com/dp/1732019819/ref=sr_1_fkmr1_3?ie=UTF8&qid=1520294047&sr=8-3-fkmr1&keywords=atoz+guide+of+mindful+leadership" class="btn btn-primary btn-lg">Purchase Now</a>
 				</div>
 				<div class="col-sm-6 text-center">
-					<img class="img-fluid" src="/wp-content/uploads/2018/08/mindful-leadership-cover-home.jpg" alt="" />
+					<a target="_blank" href="https://www.amazon.com/dp/1732019819/ref=sr_1_fkmr1_3?ie=UTF8&qid=1520294047&sr=8-3-fkmr1&keywords=atoz+guide+of+mindful+leadership"><img class="img-fluid" src="/wp-content/uploads/2018/08/mindful-leadership-cover-home.jpg" alt="" /></a>
 				</div>
 			</div>
 		</div>
@@ -137,8 +137,8 @@
 				<?php if ( $the_query->have_posts() ) : $post_counter = 0; ?>
 				  <?php while ( $the_query->have_posts() ) : $the_query->the_post(); ?>
 					<div class="col-sm-2 text-center<?php echo ($post_counter==0)?' offset-sm-1':''; ?>">
-						<?php the_post_thumbnail('medium', ['class' => 'img-fluid', 'title' => 'Continue Reading','alt' => 'Featured Image']); ?>
-						<p><?php the_title(); ?></p>
+						<a href="<?php the_permalink(); ?>" title="<?php the_title_attribute( 'before=Permalink to: "&after="' ); ?>"><?php the_post_thumbnail('medium', ['class' => 'img-fluid', 'title' => 'Continue Reading','alt' => 'Featured Image']); ?></a>
+						<p><a href="<?php the_permalink(); ?>" title="<?php the_title_attribute( 'before=Permalink to: "&after="' ); ?>"><?php the_title(); ?></a></p>
 					</div>
 				  <?php $post_counter++; ?>
 				  <?php endwhile; ?>
