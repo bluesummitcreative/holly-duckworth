@@ -150,8 +150,5 @@
 				
 	
 <?php
-	get_template_part('inc/intro-home');
-	get_template_part('inc/funnels-home');
-	get_template_part('inc/site-wide-cta');
 	get_footer(); 
 ?>
