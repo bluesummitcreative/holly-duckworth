@@ -3,7 +3,7 @@
 	<div class="row post">
 		<?php if(has_post_thumbnail()) { ?>
 		<div class="col-sm-6">
-			<a href="<?php the_permalink() ?>"><?php the_post_thumbnail(array('class' => 'img-fluid'));?></a>
+			<a href="<?php the_permalink() ?>"><?php the_post_thumbnail('full',array('class' => 'img-fluid'));?></a>
 		</div>
 		<div class="col-sm-6">
 		<?php } else { ?>
