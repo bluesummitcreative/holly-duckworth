@@ -2,6 +2,15 @@
 	/*Template Name: Home*/
 	get_header();
 	get_template_part('inc/slider-home'); ?>
+	<div class="container-fluid" style="background: #253874;">
+	    <div class="container">
+		<div class="row">
+		    <div class="col-12">
+		       <a href="https://www.amazon.com/Everyday-Mindfulness-Chaos-Crazy-World/dp/1732019827" target="_blank"><img src="https://hollyduckworth.com/wp-content/uploads/2018/10/Holly-Duckworth-Everyday-Mindfulness-Banner-2018-001.png" class="img-fluid"></a>
+		    </div>
+		</div>
+	    </div>
+	</div>
 	<div class="container-fluid bg-secondary home-monday">
 		<div class="container">
 			<div class="row">
