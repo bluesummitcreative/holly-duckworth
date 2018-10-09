@@ -115,8 +115,15 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-6 text-center">
-					<h3>Get the Latest Book</h3>
-					<p>In a world where few can agree on anything, most can agree we live in a stressed-out world. The research points to the undeniable fact that organizations are struggling to find leaders because few people want to sell their life to the stress of leading organizations. Mindful Leadership: The A to Z Guide for Stress-free Leadership is a quick answer to this problem. Here you will find: • The answer to “What is Mindfulness for leaders?” • Mindfulness experiences that do not require a yoga mat • Practices to adopt mindfulness as a leadership style • Inspiration to choose stress free leadership at work No matter if you read cover to cover, do the practices each day, or take time to color-in each mandala, this book will have you moving from a mindfulness skeptic to mindful success.</p>
+					<h3>Mindful Leadership</h3>
+					<p>In a world where few can agree on anything, most can agree we live in a stressed-out world. The research points to the undeniable fact that organizations are struggling to find leaders because few people want to sell their life to the stress of leading organizations. Mindful Leadership: The A to Z Guide for Stress-free Leadership is a quick answer to this problem. Here you will find:</p>
+					<ul>
+						<li>The answer to “What is Mindfulness for leaders?”</li>
+						<li>Mindfulness experiences that do not require a yoga mat</li>
+						<li>Practices to adopt mindfulness as a leadership style</li>
+						<li>Inspiration to choose stress free leadership at work</li>
+					</ul>
+					<p>No matter if you read cover to cover, do the practices each day, or take time to color-in each mandala, this book will have you moving from a mindfulness skeptic to mindful success.</p>
 					<p><a target="_blank" href="https://www.amazon.com/dp/1732019819/ref=sr_1_fkmr1_3?ie=UTF8&qid=1520294047&sr=8-3-fkmr1&keywords=atoz+guide+of+mindful+leadership" class="btn btn-primary btn-lg">Purchase Now</a>
 				</div>
 				<div class="col-sm-6 text-center">
