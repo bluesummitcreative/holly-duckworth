@@ -114,7 +114,7 @@
 	<div class="container-fluid container-padding" style="background:#e7e7e7;">
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-6 text-center">
+				<div class="col-sm-6">
 					<h3>Mindful Leadership</h3>
 					<p>In a world where few can agree on anything, most can agree we live in a stressed-out world. The research points to the undeniable fact that organizations are struggling to find leaders because few people want to sell their life to the stress of leading organizations. Mindful Leadership: The A to Z Guide for Stress-free Leadership is a quick answer to this problem. Here you will find:</p>
 					<ul>
